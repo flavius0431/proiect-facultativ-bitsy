@@ -1,4 +1,4 @@
-# proiect-facultativ-bitsy
+# Helping Hands
 proiect-facultativ-bitsy created by GitHub Classroom
 Alegere functionalitati si proiectare prototip 
  Proiect Facultativ MPP
